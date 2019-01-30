@@ -1,6 +1,6 @@
-# GOF Design Pattern
+# GOF Design Patterns
 
-This repository contains the code for the GOF Design Pattern.
+This repository contains the code for the GOF Design Patterns.
 
 ## Creational 
 
