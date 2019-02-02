@@ -19,3 +19,16 @@ This repository contains the code for the GOF Design Patterns.
 * Pattern 5 : Facade 
 * Pattern 6 : Flyweight
 * Pattern 7 : Proxy
+
+## Behavioral Patterns
+
+* Pattern 1 : Chain of Responsibility
+* Pattern 2 : Command
+* Pattern 3 : Interpreter
+* Pattern 4 : Iterator
+* Pattern 5 : Mediator
+* Pattern 6 : Memento
+* Pattern 7 : Observer
+* Pattern 8 : Strategy
+* Pattern 9 : Template Method
+* Pattern 10 : Visitor
