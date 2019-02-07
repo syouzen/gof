@@ -1,3 +1,4 @@
 add_subdirectory(1_chain_of_responsibility)
+add_subdirectory(2_command)
 add_subdirectory(6_memento)
 add_subdirectory(7_observer)
