@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_C_STANDARD 11)
 set(CMAKE_C_STANDARD_REQUIRED ON)
 
-set(TARGET abstact_factory)
+set(TARGET abstract_factory)
 set(SOURCES main.cc)
 set(OUTPUT_DIR )
 
