@@ -29,6 +29,7 @@ This repository contains the code for the GOF Design Patterns.
 * Pattern 5 : Mediator
 * Pattern 6 : Memento
 * Pattern 7 : Observer
-* Pattern 8 : Strategy
-* Pattern 9 : Template Method
-* Pattern 10 : Visitor
+* Pattern 8 : State
+* Pattern 9 : Strategy
+* Pattern 10 : Template Method
+* Pattern 11 : Visitor
